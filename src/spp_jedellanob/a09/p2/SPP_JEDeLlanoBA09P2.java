@@ -7,7 +7,7 @@ package spp_jedellanob.a09.p2;
 import java.util.Scanner; 
 /**
  *
- * @author Alumno
+ * @Jose Eduardo De Llano A01410712 IC
  */
 public class SPP_JEDeLlanoBA09P2 {
 
